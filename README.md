@@ -1,4 +1,4 @@
-Doesn't work.
+Tried several things and it doesn't work. If anyone knows how to make this work, you can contact me on Discord (my username is pianoplayer25).
 
 
 \[Colon's readme text starts from here\]
